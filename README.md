@@ -7,3 +7,8 @@
 [HiC_analysis](https://github.com/khannasejal/python_codes/tree/main/HiC_analysis) - Scripts for [Compartments](https://github.com/khannasejal/python_codes/tree/main/HiC_analysis/Compartments) (A- active/open chromatin and B-inactive/closed chromatin) and [TADs_analysis](https://github.com/khannasejal/python_codes/tree/main/HiC_analysis/TADs_analysis); finds out genes lying in stable compartments or switched compartments under different conditions (MCF7/TAMR, MCF7/FASR, TAMR/FASR); Number/fraction of TADs on each chromosome; Number of genes in TADs 
 
 [data_sci_II_codes](https://github.com/khannasejal/python_codes/tree/main/data_sci_II_codes) - CNN model to classify the dataset of natural scenes (images of buildings, forests, glaciers, mountains, sea, and streets)
+
+[data_sci_II_codes](https://github.com/khannasejal/python_codes/tree/main/data_sci_II_codes) - ML classifiers (logistic regression, SVM, random forest) to classify 280 samples taken from the article Adv. Energy Mater. 2018, 1801032 by Sahu et al. Each of the sample/material has 13 independent features and it belongs to a class depending on its PCE value (low, moderate, high).
+
+
+
