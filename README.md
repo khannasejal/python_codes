@@ -4,4 +4,4 @@
 
 [gene_expression_plots.py](https://github.com/khannasejal/python_codes/blob/main/gene_expression_plots.py) - Heatmaps and boxplots for the gene expression values
 
-[HiC_analysis](https://github.com/khannasejal/python_codes/tree/main/HiC_analysis) - Scripts for [Compartments](https://github.com/khannasejal/python_codes/tree/main/HiC_analysis/Compartments) (A- active/open chromatin and B-inactive/closed chromatin) and [TADs_analysis](https://github.com/khannasejal/python_codes/tree/main/HiC_analysis/TADs_analysis)
+[HiC_analysis](https://github.com/khannasejal/python_codes/tree/main/HiC_analysis) - Scripts for [Compartments](https://github.com/khannasejal/python_codes/tree/main/HiC_analysis/Compartments) (A- active/open chromatin and B-inactive/closed chromatin) and [TADs_analysis](https://github.com/khannasejal/python_codes/tree/main/HiC_analysis/TADs_analysis); finds out genes lying in stable compartments or switched compartments (MCF7/TAMR, MCF7/FASR, TAMR/FASR conditions); Number/fraction of TADs on each chromosome; Number of genes in TADs 
